@@ -1,4 +1,4 @@
-# BETA: raspberrypi-FFpegNDI
+# BETA: raspberrypi-FFmpegNDI
 
 Use Raspberry Pi as a NewTek NDI® monitor. Please ensure you register on the NewTek NDI® Software Developer Kit site using https://www.newtek.com/ndi/sdk/ before continuing.
 
