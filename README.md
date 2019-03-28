@@ -1,4 +1,18 @@
-# BETA: raspberrypi-FFmpegNDI
+# DECEASED: raspberrypi-FFmpegNDI
+
+*NDI support in FFmpeg was removed in the FFMPEG source on the 20th of March 2019.
+
+https://github.com/FFmpeg/FFmpeg/commit/4b32f8b3ebfa011fcc5991bcaa97c3f5b61b49ad
+
+This is from a license dispute with Newtek ( https://trac.ffmpeg.org/ticket/7589 ) and NDI support has now been removed from FFmpeg.
+
+I will take these projects offline.
+
+Apologies for the inconvenience.
+
+Regards,
+
+Johan Els *
 
 Use Raspberry Pi as a NewTek NDI® monitor. Please ensure you register on the NewTek NDI® Software Developer Kit site using https://www.newtek.com/ndi/sdk/ before continuing.
 
